@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😵‍💫I'm currently learning {**React**}(https://react.dev/)
+- 😵‍💫I'm currently learning [**React**](https://react.dev/)
