@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Chelsa and I'm a Novice Programmer. I'm student from University of Gadjah Mada 🙌</h2>
+<h2 align="left">Hi 👋! My name is Chelsa. I'm student from University of Gadjah Mada 🙌</h2>
 
 ###
 
