@@ -1,7 +1,6 @@
-<h1 align="left">Hi 👋! My name is Chelsa. I'm student from University of Gadjah Mada 🙌</h1>
+<h1 align="left">Hi 👋! I'am Chelsa</h1>
 
 ###
-
 <img align="right" height="150" src="https://i.imgur.com/9H4FdPR.gif"  />
 
 ###
